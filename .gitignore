@@ -1,4 +1,15 @@
 .env
 *.log
+.DS_Store
 __pycache__/
 .ipynb_checkpoints/
+ato-mock/outputs/
+ato-mock/data/
+ato-mock/input/
+outputs/
+data/
+input/
+*.db
+*.sqlite3
+*.bin
+=0.8.0
