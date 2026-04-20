@@ -1,0 +1,117 @@
+BALANCE SHEET
+(Statement of Financial Position)
+Ironbark Wholesale Distribution Pty Ltd
+As at: 30 June 2024 Comparative: 30 June 2023
+Ironbark Wholesale Distribution Pty
+Entity: Currency: AUD
+Ltd — ACN 582 114 097
+Meridian Accounting Partners, 12 Sep
+Basis: Accrual — AASB compliant Prepared:
+2024
+ASSETS
+CURRENT ASSETS
+CURRENT ASSETS 30 Jun 2023 30 Jun 2024
+Cash at bank — operating account (CBA) 312,840 428,640
+Cash at bank — payroll account (NAB) 48,200 52,400
+Cash at bank — GST clearing account 18,420 22,840
+Short-term deposits (< 90 days) 200,000 350,000
+Accounts receivable — trade debtors 1,284,200 1,412,800
+Less: Provision for doubtful debts (42,400) (58,200)
+Other receivables 28,400 34,200
+GST refund receivable 14,200 0
+Inventory — hardware & building materials 684,200 741,400
+Inventory — electrical & plumbing supplies 221,400 268,200
+Inventory — safety & workwear 91,300 98,400
+Inventory — tools & machinery 238,400 310,900
+Prepaid expenses — insurance 18,200 21,400
+Prepaid expenses — rent 32,000 34,000
+Prepaid expenses — other 8,400 9,200
+Income tax receivable 0 12,400
+Accrued revenue 42,400 48,200
+TOTAL CURRENT ASSETS 3,203,960 3,786,780
+NON-CURRENT ASSETS
+NON-CURRENT ASSETS 30 Jun 2023 30 Jun 2024
+Freehold land — 42 Logistics Drive, Wetherill Park (at cost) 1,200,000 1,200,000
+Buildings — at cost 840,000 840,000
+Less: Accumulated depreciation — buildings (84,000) (102,400)
+Leasehold improvements — at cost 184,000 204,000
+Less: Accumulated depreciation — leasehold improvements (82,800) (101,200)
+Plant & equipment — at cost 628,400 712,800
+Less: Accumulated depreciation — plant & equipment (312,400) (408,800)
+Delivery vehicles — at cost 484,200 524,800
+Less: Accumulated depreciation — vehicles (182,400) (248,200)
+Right-of-use assets — vehicle leases (AASB 16) 312,000 284,800
+Right-of-use assets — warehouse equipment leases 148,000 128,400
+Computer equipment & software — at cost 248,400 298,400
+Less: Accumulated depreciation — IT assets (148,200) (184,200)
+Goodwill (at cost, less impairment) 480,000 480,000
+Customer list intangible — at cost 120,000 120,000
+Less: Accumulated amortisation — customer list (60,000) (72,000)
+Capitalised software development costs 84,000 96,000
+Less: Accumulated amortisation — software (33,600) (43,200)
+Equity investment — Ironbark Imports Pty Ltd (related party) 250,000 250,000
+Long-term deposits & bonds 48,000 52,000
+Deferred tax asset 28,400 34,200
+TOTAL NON-CURRENT ASSETS 4,152,000 4,165,400
+Land & buildings independently valued 30 June 2022. Right-of-use assets recognised per
+AASB 16 Leases.
+TOTAL ASSETS 7,355,960 7,952,180
+LIABILITIES
+CURRENT LIABILITIES
+CURRENT LIABILITIES 30 Jun 2023 30 Jun 2024
+Accounts payable — trade creditors 984,200 1,082,400
+Accrued liabilities — wages & super 84,200 92,400
+Accrued liabilities — other 42,400 48,200
+GST payable 48,200 58,400
+PAYG withholding payable 24,200 28,400
+Payroll tax payable (NSW) 12,400 14,200
+Income tax payable 84,200 112,400
+Superannuation payable 28,400 32,800
+Unearned revenue — deposits received 42,400 52,400
+Current portion of lease liabilities (AASB 16) 112,400 118,400
+Current portion of term loan (NAB) 80,000 80,000
+Overdraft facility (CBA — $500k limit) 0 84,200
+Customer credit notes outstanding 14,200 18,400
+Warranty provision — current 8,400 9,800
+Workers compensation liability 4,200 4,800
+TOTAL CURRENT LIABILITIES 1,569,800 1,837,200
+NON-CURRENT LIABILITIES
+NON-CURRENT LIABILITIES 30 Jun 2023 30 Jun 2024
+Term loan — NAB (principal $1.2m, drawn $920k) 920,000 840,000
+Finance lease liabilities — non-current (AASB 16) 248,000 198,400
+Chattel mortgage — delivery fleet 284,200 224,800
+Deferred tax liability 42,400 48,200
+Warranty provision — non-current 12,400 14,200
+Make-good provision — leased premises 24,000 26,400
+Loan from related party — Ironbark Holdings 200,000 150,000
+Deferred rent incentive 18,400 12,400
+TOTAL NON-CURRENT LIABILITIES 1,749,400 1,514,400
+Term loan secured by registered mortgage over 42 Logistics Drive, Wetherill Park NSW
+2164.
+TOTAL LIABILITIES 3,319,200 3,351,600
+SHAREHOLDERS' EQUITY
+SHAREHOLDERS' EQUITY
+SHAREHOLDERS' EQUITY 30 Jun 2023 30 Jun 2024
+Issued capital — 10,000,000 ordinary shares at $0.10 1,000,000 1,000,000
+Share premium reserve 500,000 500,000
+Asset revaluation reserve — land & buildings 420,000 420,000
+Foreign currency translation reserve (8,400) (6,800)
+Retained earnings — opening balance 2,024,760 2,125,160
+Add: Net profit after tax (current year) 100,400 324,953
+Less: Dividends paid — interim (May 2024) 0 (168,733)
+Less: Dividends paid — final (paid prior year) (100,000) 0
+Retained earnings — closing balance 2,125,160 2,281,380
+TOTAL SHAREHOLDERS' EQUITY 4,036,760 4,600,580
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 7,355,960 7,952,180
+Balance check: Total Assets = Total Liabilities + Equity 3
+KEY FINANCIAL RATIOS
+Ratio Formula 30 Jun 2023 30 Jun 2024
+Current Ratio Current Assets / Current Liabilities 2.04x 2.06x
+Quick Ratio (CA - Inventory) / CL 1.25x 1.23x
+Debt-to-Equity Total Liabilities / Total Equity 0.82x 0.73x
+Return on Equity NPAT / Total Equity 2.5% 7.1%
+Return on Assets NPAT / Total Assets 1.4% 4.1%
+Net Working Capital Current Assets - Current Liabilities $1,634,160 $1,949,580
+This Balance Sheet has been prepared in accordance with Australian Accounting Standards (AASB) and the Corporations Act 2001 ([PERSON_001]).
+Right-of-use assets and corresponding lease liabilities are recognised in accordance with AASB 16 Leases. Comparatives have been restated
+where necessary for consistency.

@@ -1,0 +1,263 @@
+FORENSIC AUDIT VALIDATION LOG
+============================================================
+Run:          2026-04-01 06:58:22 UTC
+Source P&L:   input\pl_ironbark_fy2024.pdf
+Source BS:    input\bs_ironbark_fy2024.pdf
+Log file:     outputs\2026-04-01_17-58-21\forensic\validation_log.txt
+
+EXTRACTION REPORT
+========================================
+P&L items extracted:   91
+BS  items extracted:   66
+Total line items:      157
+
+P&L LINE ITEMS (account | CY amount | PY amount | section | page):
+
+  [REVENUE]
+    p1  Trade sales — hardware & building materials              CY: $4,218,440.00  PY: $3,842,150.00
+    p1  Trade sales — electrical & plumbing supplies             CY: $1,387,620.00  PY: $1,124,800.00
+    p1  Trade sales — safety & workwear                          CY: $  498,750.00  PY: $  412,300.00
+    p1  Trade sales — tools & machinery                          CY: $  941,200.00  PY: $  876,540.00
+    p1  Online channel sales                                     CY: $  524,880.00  PY: $  318,200.00
+    p1  Less: Sales returns & allowances                         CY: $ -163,400.00  PY: $ -148,320.00
+    p1  Less: Trade discounts & rebates                          CY: $ -257,180.00  PY: $ -221,640.00
+    p1  Service revenue — installation & delivery                CY: $  341,600.00  PY: $  284,500.00
+    p1  Service revenue — equipment hire                         CY: $   92,400.00  PY: $   76,800.00
+    p1  Franchise royalties received                             CY: $   52,000.00  PY: $   45,000.00
+    p1  Government grants — export market development            CY: $   22,500.00  PY: $   18,000.00
+    p1  Other operating revenue                                  CY: $   28,310.00  PY: $   31,440.00
+
+  [COST OF SALES]
+    p1  Opening stock — hardware & building materials            CY: $  684,200.00  PY: $  612,400.00
+    p1  Opening stock — electrical & plumbing                    CY: $  221,400.00  PY: $  198,300.00
+    p1  Opening stock — safety & workwear                        CY: $   91,300.00  PY: $   82,100.00
+    p1  Opening stock — tools & machinery                        CY: $  238,400.00  PY: $  214,800.00
+    p1  Purchases — hardware & building materials                CY: $3,104,800.00  PY: $2,841,200.00
+    p1  Purchases — electrical & plumbing supplies               CY: $  978,400.00  PY: $  824,300.00
+    p1  Purchases — safety & workwear                            CY: $  341,200.00  PY: $  298,400.00
+    p1  Purchases — tools & machinery                            CY: $  698,200.00  PY: $  641,800.00
+    p1  Freight inwards & cartage                                CY: $  138,640.00  PY: $  124,380.00
+    p2  Import duties & customs clearance                        CY: $   61,400.00  PY: $   48,200.00
+    p2  Warehouse labour — direct                                CY: $  312,800.00  PY: $  284,600.00
+    p2  Less: Closing stock — all categories                     CY: $-1,418,900.00  PY: $-1,235,400.00
+    p2  Less: Purchase returns & allowances                      CY: $  -42,800.00  PY: $  -38,200.00
+
+  [OTHER INCOME]
+    p3  Interest received — bank deposits                        CY: $   22,840.00  PY: $   18,420.00
+    p3  Rental income — sublease warehouse bay                   CY: $   42,000.00  PY: $   36,000.00
+    p3  Gain on disposal of plant & equipment                    CY: $    9,200.00  PY: $    4,800.00
+    p3  Insurance claim proceeds 0                               CY: $   18,500.00
+    p3  Foreign exchange gain (net)                              CY: $    1,840.00  PY: $    3,120.00
+    p3  Jobkeeper / COVID support (prior year)                   CY: $        0.00  PY: $   22,000.00
+
+  [OPERATING EXPENSES]
+    p3  Wages & salaries — management                            CY: $  448,200.00  PY: $  412,800.00
+    p3  Wages & salaries — sales & operations                    CY: $  738,400.00  PY: $  684,200.00
+    p3  Wages & salaries — administration                        CY: $  234,600.00  PY: $  218,400.00
+    p3  Casual & contract labour                                 CY: $   96,400.00  PY: $   84,200.00
+    p3  Superannuation guarantee contributions (11%)             CY: $  168,042.00  PY: $  153,318.00
+    p3  Workers compensation insurance                           CY: $   19,810.00  PY: $   18,240.00
+    p3  Payroll tax (NSW — 5.45% above threshold)                CY: $   48,340.00  PY: $   42,800.00
+    p3  Fringe benefits tax                                      CY: $   14,200.00  PY: $   12,400.00
+    p3  Staff training & development                             CY: $   11,200.00  PY: $    8,640.00
+    p3  Recruitment fees                                         CY: $    9,400.00  PY: $    6,800.00
+    p3  Employee amenities & welfare                             CY: $    4,840.00  PY: $    4,120.00
+    p3  Warehouse rent — 42 Logistics Drive, Wetherill Park      CY: $  204,000.00  PY: $  192,000.00
+    p3  Office rent — Sydney CBD                                 CY: $   90,000.00  PY: $   84,000.00
+    p3  Outgoings & building management fees                     CY: $   24,800.00  PY: $   22,400.00
+    p3  Electricity & gas                                        CY: $   44,200.00  PY: $   38,400.00
+    p3  Water & sewerage                                         CY: $    4,800.00  PY: $    4,200.00
+    p3  Security monitoring & alarm systems                      CY: $    9,200.00  PY: $    8,400.00
+    p3  Cleaning & waste removal                                 CY: $   15,600.00  PY: $   14,400.00
+    p3  Minor repairs & maintenance                              CY: $   18,400.00  PY: $   21,800.00
+    p4  Fleet fuel                                               CY: $   94,200.00  PY: $   82,400.00
+    p4  Fleet registration & CTP insurance                       CY: $   19,800.00  PY: $   18,200.00
+    p4  Fleet comprehensive insurance                            CY: $   26,800.00  PY: $   24,400.00
+    p4  Fleet servicing & repairs                                CY: $   41,200.00  PY: $   36,800.00
+    p4  Lease payments — delivery vehicles (6)                   CY: $  108,000.00  PY: $   96,000.00
+    p4  Lease payments — forklifts (3)                           CY: $   42,000.00  PY: $   42,000.00
+    p4  Tolls & parking                                          CY: $    9,600.00  PY: $    8,400.00
+    p4  Advertising — digital & social media                     CY: $   58,400.00  PY: $   42,800.00
+    p4  Advertising — print & trade publications                 CY: $    6,200.00  PY: $    8,400.00
+    p4  Trade shows & exhibitions                                CY: $   28,800.00  PY: $   24,000.00
+    p4  Promotional materials & signage                          CY: $   14,200.00  PY: $   12,400.00
+    p4  Website development & maintenance                        CY: $   22,400.00  PY: $   18,000.00
+    p4  Customer entertainment (50% deductible)                  CY: $   11,400.00  PY: $    9,800.00
+    p4  Sponsorships                                             CY: $    8,000.00  PY: $    6,000.00
+
+  [FINANCE COSTS]
+    p4  Bank charges & merchant fees                             CY: $   14,200.00  PY: $   12,400.00
+    p4  Interest expense — term loan (NAB)                       CY: $   42,800.00  PY: $   38,400.00
+    p4  Interest expense — overdraft facility                    CY: $    6,400.00  PY: $    4,200.00
+    p4  Finance lease interest charges                           CY: $   22,400.00  PY: $   18,400.00
+    p4  Factoring & debtor finance fees                          CY: $        0.00  PY: $    8,400.00
+    p4  Foreign exchange losses                                  CY: $    4,100.00  PY: $    2,800.00
+    p4  Bad debts written off                                    CY: $   24,200.00  PY: $   18,400.00
+    p4  Movement in doubtful debt provision                      CY: $    8,200.00  PY: $    6,400.00
+
+  [OPERATING EXPENSES]
+    p5  Accounting & audit fees                                  CY: $   46,800.00  PY: $   42,000.00
+    p5  Legal & professional fees                                CY: $   34,200.00  PY: $   28,400.00
+    p5  IT support & software subscriptions                      CY: $   48,200.00  PY: $   38,400.00
+    p5  ERP system licensing (Pronto Xi)                         CY: $   26,400.00  PY: $   24,000.00
+    p5  Office supplies & consumables                            CY: $    9,200.00  PY: $    8,400.00
+    p5  Postage & courier                                        CY: $    5,400.00  PY: $    4,800.00
+    p5  Telephone & internet                                     CY: $   13,800.00  PY: $   12,400.00
+    p5  Subscriptions & memberships                              CY: $    7,200.00  PY: $    6,400.00
+    p5  Travel — domestic                                        CY: $   22,400.00  PY: $   18,400.00
+    p5  Travel — international                                   CY: $   14,800.00  PY: $   12,400.00
+    p5  Accommodation & meals                                    CY: $    9,600.00  PY: $    8,400.00
+    p5  Printing & stationery                                    CY: $    3,800.00  PY: $    3,600.00
+    p5  Donations (non-deductible)                               CY: $    3,000.00  PY: $    2,400.00
+    p5  Sundry expenses                                          CY: $    5,200.00  PY: $    4,800.00
+
+  [DEPRECIATION AMORT]
+    p5  Depreciation — plant & equipment (Div 40)                CY: $   96,400.00  PY: $   84,200.00
+    p5  Depreciation — leasehold improvements (Div 43)           CY: $   18,400.00  PY: $   18,400.00
+    p5  Depreciation — right-of-use assets (AASB 16)             CY: $   68,800.00  PY: $   62,400.00
+    p5  Amortisation — customer list intangible                  CY: $   12,000.00  PY: $   12,000.00
+    p5  Amortisation — software development costs                CY: $    9,600.00  PY: $    8,400.00
+
+BALANCE SHEET LINE ITEMS:
+
+  [CURRENT ASSETS]
+    p1  Cash at bank — operating account (CBA)                   CY: $  428,640.00  PY: $  312,840.00
+    p1  Cash at bank — payroll account (NAB)                     CY: $   52,400.00  PY: $   48,200.00
+    p1  Cash at bank — GST clearing account                      CY: $   22,840.00  PY: $   18,420.00
+    p1  Short-term deposits (< 90 days)                          CY: $  350,000.00  PY: $  200,000.00
+    p1  Accounts receivable — trade debtors                      CY: $1,412,800.00  PY: $1,284,200.00
+    p1  Less: Provision for doubtful debts                       CY: $  -58,200.00  PY: $  -42,400.00
+    p1  Other receivables                                        CY: $   34,200.00  PY: $   28,400.00
+    p1  GST refund receivable                                    CY: $        0.00  PY: $   14,200.00
+    p1  Inventory — hardware & building materials                CY: $  741,400.00  PY: $  684,200.00
+    p1  Inventory — electrical & plumbing supplies               CY: $  268,200.00  PY: $  221,400.00
+    p1  Inventory — safety & workwear                            CY: $   98,400.00  PY: $   91,300.00
+    p1  Inventory — tools & machinery                            CY: $  310,900.00  PY: $  238,400.00
+    p1  Prepaid expenses — insurance                             CY: $   21,400.00  PY: $   18,200.00
+    p1  Prepaid expenses — rent                                  CY: $   34,000.00  PY: $   32,000.00
+    p1  Prepaid expenses — other                                 CY: $    9,200.00  PY: $    8,400.00
+    p1  Income tax receivable 0                                  CY: $   12,400.00
+    p1  Accrued revenue                                          CY: $   48,200.00  PY: $   42,400.00
+
+  [NON CURRENT ASSETS]
+    p2  Freehold land — 42 Logistics Drive, Wetherill Park (at cost)  CY: $1,200,000.00  PY: $1,200,000.00
+    p2  Buildings — at cost                                      CY: $  840,000.00  PY: $  840,000.00
+    p2  Less: Accumulated depreciation — buildings               CY: $ -102,400.00  PY: $  -84,000.00
+    p2  Leasehold improvements — at cost                         CY: $  204,000.00  PY: $  184,000.00
+    p2  Less: Accumulated depreciation — leasehold improvements  CY: $ -101,200.00  PY: $  -82,800.00
+    p2  Plant & equipment — at cost                              CY: $  712,800.00  PY: $  628,400.00
+    p2  Less: Accumulated depreciation — plant & equipment       CY: $ -408,800.00  PY: $ -312,400.00
+    p2  Delivery vehicles — at cost                              CY: $  524,800.00  PY: $  484,200.00
+    p2  Less: Accumulated depreciation — vehicles                CY: $ -248,200.00  PY: $ -182,400.00
+    p2  Right-of-use assets — vehicle leases (AASB 16)           CY: $  284,800.00  PY: $  312,000.00
+    p2  Right-of-use assets — warehouse equipment leases         CY: $  128,400.00  PY: $  148,000.00
+    p2  Computer equipment & software — at cost                  CY: $  298,400.00  PY: $  248,400.00
+    p2  Less: Accumulated depreciation — IT assets               CY: $ -184,200.00  PY: $ -148,200.00
+    p2  Goodwill (at cost, less impairment)                      CY: $  480,000.00  PY: $  480,000.00
+    p2  Customer list intangible — at cost                       CY: $  120,000.00  PY: $  120,000.00
+    p2  Less: Accumulated amortisation — customer list           CY: $  -72,000.00  PY: $  -60,000.00
+    p2  Capitalised software development costs                   CY: $   96,000.00  PY: $   84,000.00
+    p2  Less: Accumulated amortisation — software                CY: $  -43,200.00  PY: $  -33,600.00
+    p2  Equity investment — Ironbark Imports Pty Ltd (related party)  CY: $  250,000.00  PY: $  250,000.00
+    p2  Long-term deposits & bonds                               CY: $   52,000.00  PY: $   48,000.00
+    p2  Deferred tax asset                                       CY: $   34,200.00  PY: $   28,400.00
+
+  [CURRENT LIABILITIES]
+    p3  Accounts payable — trade creditors                       CY: $1,082,400.00  PY: $  984,200.00
+    p3  Accrued liabilities — wages & super                      CY: $   92,400.00  PY: $   84,200.00
+    p3  Accrued liabilities — other                              CY: $   48,200.00  PY: $   42,400.00
+    p3  GST payable                                              CY: $   58,400.00  PY: $   48,200.00
+    p3  PAYG withholding payable                                 CY: $   28,400.00  PY: $   24,200.00
+    p3  Payroll tax payable (NSW)                                CY: $   14,200.00  PY: $   12,400.00
+    p3  Income tax payable                                       CY: $  112,400.00  PY: $   84,200.00
+    p3  Superannuation payable                                   CY: $   32,800.00  PY: $   28,400.00
+    p3  Unearned revenue — deposits received                     CY: $   52,400.00  PY: $   42,400.00
+    p3  Current portion of lease liabilities (AASB 16)           CY: $  118,400.00  PY: $  112,400.00
+    p3  Current portion of term loan (NAB)                       CY: $   80,000.00  PY: $   80,000.00
+    p3  Overdraft facility (CBA — $500k limit) 0                 CY: $   84,200.00
+    p3  Customer credit notes outstanding                        CY: $   18,400.00  PY: $   14,200.00
+    p3  Warranty provision — current                             CY: $    9,800.00  PY: $    8,400.00
+    p3  Workers compensation liability                           CY: $    4,800.00  PY: $    4,200.00
+
+  [NON CURRENT LIABILITIES]
+    p3  Term loan — NAB (principal $1.2m, drawn $920k)           CY: $  840,000.00  PY: $  920,000.00
+    p3  Finance lease liabilities — non-current (AASB 16)        CY: $  198,400.00  PY: $  248,000.00
+    p3  Chattel mortgage — delivery fleet                        CY: $  224,800.00  PY: $  284,200.00
+    p3  Deferred tax liability                                   CY: $   48,200.00  PY: $   42,400.00
+    p3  Warranty provision — non-current                         CY: $   14,200.00  PY: $   12,400.00
+    p3  Make-good provision — leased premises                    CY: $   26,400.00  PY: $   24,000.00
+    p3  Loan from related party — Ironbark Holdings              CY: $  150,000.00  PY: $  200,000.00
+    p3  Deferred rent incentive                                  CY: $   12,400.00  PY: $   18,400.00
+
+  [EQUITY]
+    p4  Issued capital —                                         CY: $1,000,000.00  PY: $1,000,000.00
+    p4  Share premium reserve                                    CY: $  500,000.00  PY: $  500,000.00
+    p4  Asset revaluation reserve — land & buildings             CY: $  420,000.00  PY: $  420,000.00
+    p4  Foreign currency translation reserve                     CY: $   -6,800.00  PY: $   -8,400.00
+    p4  Retained earnings — closing balance                      CY: $2,281,380.00  PY: $2,125,160.00
+
+CLASSIFICATION CHECKS
+========================================
+  No misclassifications detected.
+
+COMPUTED FINANCIAL SUMMARY (CY 2023-24)
+========================================
+  Revenue                           $   7,687,120.00
+  Cost of Sales                     $   5,409,040.00
+  Gross Profit                      $   2,278,080.00
+  Other Income                      $      94,380.00
+  Operating Expenses                $   2,945,432.00
+  Depreciation & Amort              $     205,200.00
+  EBIT                              $    -778,172.00
+  Finance Costs                     $     122,300.00
+  Net Profit Before Tax             $    -900,472.00
+  Net Profit After Tax              $    -900,472.00
+
+  Current Assets                    $   3,786,780.00
+  Non-Current Assets                $   4,065,400.00
+  TOTAL ASSETS                      $   7,852,180.00
+  Current Liabilities               $   1,837,200.00
+  Non-Current Liabilities           $   1,514,400.00
+  Total Liabilities                 $   3,351,600.00
+  Total Equity                      $   4,194,580.00
+  Liabilities + Equity              $   7,546,180.00
+
+ACCOUNTING EQUATION CHECKS
+========================================
+  Gross Profit:
+    Revenue ? COGS                                 $   2,278,080.00
+    Derived Gross Profit                           $   2,278,080.00
+    Result: [PASS]
+
+  Net Profit:
+    GP + OI ? OpEx ? D&A ? Finance ? Tax           $    -900,472.00
+    Derived Net Profit                             $    -900,472.00
+    Result: [PASS]
+
+  Balance Sheet Equation:
+    Total Assets                                   $   7,852,180.00
+    Total Liabilities + Equity                     $   7,546,180.00
+    Result: [FAIL] FAIL  (difference: $306,000.00)
+
+  [FAIL] BalanceSheetImbalanceError: Total Assets $7,852,180.00 ? Liabilities + Equity $7,546,180.00  (difference: $306,000.00)
+
+RETAINED EARNINGS RECONCILIATION
+----------------------------------------
+  Retained Earnings (closing):  $2,281,380.00
+  Opening balance + NPAT - Dividends = Closing Retained Earnings.
+  [WARN]  Opening balance not available in source PDFs -- cannot verify movement.
+  [WARN]  Flag for accountant review: RETAINED_EARNINGS_UNVERIFIABLE
+
+RECONCILIATION vs PREVIOUS PIPELINE OUTPUT (KNOWN ERRORS)
+=========================================================
+  Metric                            Pipeline (Wrong)    Forensic (Correct)               ?
+  ----------------------------------------------------------------------------------------
+  Total Revenue                   $     8,561,540.00  $       7,687,120.00  $  874,420.00
+  Total Assets                    $     6,667,780.00  $       7,852,180.00  +$1,184,400.00
+  Liabilities + Equity            $     8,348,940.00  $       7,546,180.00  $  802,760.00
+
+FINAL VERDICT
+----------------------------------------
+  [FAIL] FAIL -- Issues detected: balance sheet does not balance; equation check failure(s).
+  Corrected report generated with DATA INTEGRITY warnings.
+  Review misclassification errors and accounting equation failures above.

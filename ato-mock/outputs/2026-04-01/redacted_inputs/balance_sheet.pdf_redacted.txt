@@ -1,0 +1,39 @@
+BALANCE SHEET
+Harbour Bridge Trading Pty Ltd
+As at: 30 June 2024 Currency: AUD
+ASSETS
+CURRENT ASSETS
+Cash 198,450.00
+Accounts receivable 214,320.00
+Inventory 312,800.00
+Prepaid expenses 18,240.00
+Short-term investments 75,000.00
+TOTAL CURRENT ASSETS 818,810.00
+NON-CURRENT ASSETS
+Property / land 850,000.00
+Furniture 42,500.00
+Vehicles 118,400.00
+Equipment / tools 64,200.00
+Long-term investments 150,000.00
+TOTAL NON-CURRENT ASSETS 1,225,100.00
+TOTAL ASSETS 2,043,910.00
+LIABILITIES
+CURRENT LIABILITIES
+Accounts payable 143,650.00
+Payroll liabilities 38,400.00
+GST payable 21,830.00
+Income tax payable 123,130.00
+Short-term loans 50,000.00
+TOTAL CURRENT LIABILITIES 377,010.00
+LONG-TERM LIABILITIES
+Long-term loans 420,000.00
+Other long-term liabilities 35,500.00
+TOTAL LONG-TERM LIABILITIES 455,500.00
+TOTAL LIABILITIES 832,510.00
+OWNER'S EQUITY
+Owner's investment 800,000.00
+Owner's drawings (88,600.00)
+Retained earnings 500,000.00
+TOTAL OWNER'S EQUITY 1,211,400.00
+TOTAL LIABILITIES AND OWNERS EQUITY 2,043,910.00
+Total Assets = Total Liabilities + Owner's Equity 3 ($2,043,910.00)

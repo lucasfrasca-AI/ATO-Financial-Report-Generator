@@ -1,0 +1,974 @@
+[
+  {
+    "account_name": "Trade sales \u2014 hardware & building materials",
+    "ato_category": "Revenue - Sales",
+    "amount": 4218440,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Trade sales \u2014 electrical & plumbing supplies",
+    "ato_category": "Revenue - Sales",
+    "amount": 1387620,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Trade sales \u2014 safety & workwear",
+    "ato_category": "Revenue - Sales",
+    "amount": 498750,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Trade sales \u2014 tools & machinery",
+    "ato_category": "Revenue - Sales",
+    "amount": 941200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Online channel sales",
+    "ato_category": "Revenue - Sales",
+    "amount": 524880,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Sales returns & allowances",
+    "ato_category": "Revenue - Sales",
+    "amount": -163400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Trade discounts & rebates",
+    "ato_category": "Revenue - Discounts",
+    "amount": -257180,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Service revenue \u2014 installation & delivery",
+    "ato_category": "Revenue - Sales",
+    "amount": 341600,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Service revenue \u2014 equipment hire",
+    "ato_category": "Revenue - Sales",
+    "amount": 92400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Franchise royalties received",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 52000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Government grants \u2014 export market development",
+    "ato_category": "Revenue - Other",
+    "amount": 22500,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Other operating revenue",
+    "ato_category": "Revenue - Sales",
+    "amount": 28310,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Opening stock \u2014 hardware & building materials",
+    "ato_category": "Current Assets - Inventory",
+    "amount": 684200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Opening stock \u2014 electrical & plumbing",
+    "ato_category": "Current Assets - Inventory",
+    "amount": 221400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Opening stock \u2014 safety & workwear",
+    "ato_category": "Current Assets - Inventory",
+    "amount": 91300,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Opening stock \u2014 tools & machinery",
+    "ato_category": "Current Assets - Inventory",
+    "amount": 238400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Purchases \u2014 hardware & building materials",
+    "ato_category": "Cost of Sales",
+    "amount": 3104800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Purchases \u2014 electrical & plumbing supplies",
+    "ato_category": "Cost of Sales",
+    "amount": 978400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Purchases \u2014 safety & workwear",
+    "ato_category": "Cost of Sales",
+    "amount": 341200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Purchases \u2014 tools & machinery",
+    "ato_category": "Cost of Sales",
+    "amount": 698200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Freight inwards & cartage",
+    "ato_category": "Cost of Sales",
+    "amount": 138640,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Warehouse labour \u2014 direct",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 312800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Closing stock \u2014 all categories",
+    "ato_category": "Current Assets - Inventory",
+    "amount": -1418900,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Purchase returns & allowances",
+    "ato_category": "Revenue - Discounts",
+    "amount": -42800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Interest received \u2014 bank deposits",
+    "ato_category": "Revenue - Interest",
+    "amount": 22840,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Rental income \u2014 sublease warehouse bay",
+    "ato_category": "Revenue - Sales",
+    "amount": 42000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Gain on disposal of plant & equipment",
+    "ato_category": "Non-Current Assets - Fixed Assets",
+    "amount": 9200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Insurance claim proceeds 0",
+    "ato_category": "Insurance",
+    "amount": 18500,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Foreign exchange gain (net)",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 1840,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Jobkeeper / COVID support (prior year)",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 22000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Wages & salaries \u2014 management",
+    "ato_category": "Employee Expenses - Wages",
+    "amount": 448200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Wages & salaries \u2014 sales & operations",
+    "ato_category": "Revenue - Sales",
+    "amount": 738400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Wages & salaries \u2014 administration",
+    "ato_category": "Employee Expenses - Wages",
+    "amount": 234600,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Casual & contract labour",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 96400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Superannuation guarantee contributions (11%)",
+    "ato_category": "Employee Expenses - Superannuation",
+    "amount": 168042,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Workers compensation insurance",
+    "ato_category": "Employee Expenses - Workers Comp",
+    "amount": 19810,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Payroll tax (NSW \u2014 5.45% above threshold)",
+    "ato_category": "Current Liabilities - Payroll Liabilities",
+    "amount": 48340,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Fringe benefits tax",
+    "ato_category": "Current Liabilities - Tax Payable",
+    "amount": 14200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Staff training & development",
+    "ato_category": "Employee Expenses - Wages",
+    "amount": 11200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Recruitment fees",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 9400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Employee amenities & welfare",
+    "ato_category": "Employee Expenses - Wages",
+    "amount": 4840,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Warehouse rent \u2014 42 Logistics Drive, Wetherill Park",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 204000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Office rent \u2014 Sydney CBD",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 90000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Outgoings & building management fees",
+    "ato_category": "Non-Current Assets - PP&E",
+    "amount": 24800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Electricity & gas",
+    "ato_category": "Occupancy Costs - Utilities",
+    "amount": 44200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Water & sewerage",
+    "ato_category": "Occupancy Costs - Utilities",
+    "amount": 4800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Security monitoring & alarm systems",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 9200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Cleaning & waste removal",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 15600,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Minor repairs & maintenance",
+    "ato_category": "Maintenance Expenses",
+    "amount": 18400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Fleet fuel",
+    "ato_category": "Motor Vehicle Expenses",
+    "amount": 94200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Fleet registration & CTP insurance",
+    "ato_category": "Motor Vehicle Expenses",
+    "amount": 19800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Fleet comprehensive insurance",
+    "ato_category": "Motor Vehicle Expenses",
+    "amount": 26800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Fleet servicing & repairs",
+    "ato_category": "Motor Vehicle Expenses",
+    "amount": 41200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Lease payments \u2014 delivery vehicles (6)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 108000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Lease payments \u2014 forklifts (3)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 42000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Tolls & parking",
+    "ato_category": "Motor Vehicle Expenses",
+    "amount": 9600,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Advertising \u2014 digital & social media",
+    "ato_category": "Marketing Expenses",
+    "amount": 58400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Advertising \u2014 print & trade publications",
+    "ato_category": "Marketing Expenses",
+    "amount": 6200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Trade shows & exhibitions",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 28800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Promotional materials & signage",
+    "ato_category": "Marketing Expenses",
+    "amount": 14200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Website development & maintenance",
+    "ato_category": "Maintenance Expenses",
+    "amount": 22400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Customer entertainment (50% deductible)",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 11400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Sponsorships",
+    "ato_category": "Marketing Expenses",
+    "amount": 8000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Bank charges & merchant fees",
+    "ato_category": "Finance Costs - Bank Charges",
+    "amount": 14200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Interest expense \u2014 term loan (NAB)",
+    "ato_category": "Revenue - Interest",
+    "amount": 42800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Interest expense \u2014 overdraft facility",
+    "ato_category": "Revenue - Interest",
+    "amount": 6400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Finance lease interest charges",
+    "ato_category": "Revenue - Interest",
+    "amount": 22400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Factoring & debtor finance fees",
+    "ato_category": "Finance Costs - Bank Charges",
+    "amount": 8400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Foreign exchange losses",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 4100,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Bad debts written off",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 24200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Movement in doubtful debt provision",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 8200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Accounting & audit fees",
+    "ato_category": "Professional Fees - Accounting",
+    "amount": 46800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Legal & professional fees",
+    "ato_category": "Professional Fees - Legal",
+    "amount": 34200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "IT support & software subscriptions",
+    "ato_category": "Administration Expenses - IT",
+    "amount": 48200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "ERP system licensing (Pronto Xi)",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 26400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Office supplies & consumables",
+    "ato_category": "Administration Expenses",
+    "amount": 9200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Postage & courier",
+    "ato_category": "Administration Expenses",
+    "amount": 5400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Telephone & internet",
+    "ato_category": "Occupancy Costs - Utilities",
+    "amount": 13800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Subscriptions & memberships",
+    "ato_category": "Administration Expenses - IT",
+    "amount": 7200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Travel \u2014 domestic",
+    "ato_category": "Travel Expenses",
+    "amount": 22400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Travel \u2014 international",
+    "ato_category": "Travel Expenses",
+    "amount": 14800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Accommodation & meals",
+    "ato_category": "Travel Expenses",
+    "amount": 9600,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Printing & stationery",
+    "ato_category": "Administration Expenses",
+    "amount": 3800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Donations (non-deductible)",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 3000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Sundry expenses",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 5200,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Depreciation \u2014 plant & equipment (Div 40)",
+    "ato_category": "Depreciation",
+    "amount": 96400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Depreciation \u2014 leasehold improvements (Div 43)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 18400,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Depreciation \u2014 right-of-use assets (AASB 16)",
+    "ato_category": "Depreciation",
+    "amount": 68800,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Amortisation \u2014 customer list intangible",
+    "ato_category": "Depreciation",
+    "amount": 12000,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Amortisation \u2014 software development costs",
+    "ato_category": "Depreciation",
+    "amount": 9600,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Add: Other Income",
+    "ato_category": "Revenue - Sales",
+    "amount": 94380,
+    "source_document": "pl_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Cash at bank \u2014 operating account (CBA)",
+    "ato_category": "Current Assets - Cash",
+    "amount": 428640,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Cash at bank \u2014 payroll account (NAB)",
+    "ato_category": "Current Assets - Cash",
+    "amount": 52400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Cash at bank \u2014 GST clearing account",
+    "ato_category": "Current Assets - Cash",
+    "amount": 22840,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Short-term deposits (< 90 days)",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 350000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Accounts receivable \u2014 trade debtors",
+    "ato_category": "Current Assets - Trade Receivables",
+    "amount": 1412800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Provision for doubtful debts",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": -58200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Other receivables",
+    "ato_category": "Current Assets - Trade Receivables",
+    "amount": 34200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "GST refund receivable",
+    "ato_category": "Current Assets - Trade Receivables",
+    "amount": 14200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Inventory \u2014 hardware & building materials",
+    "ato_category": "Current Assets - Inventory",
+    "amount": 741400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Inventory \u2014 electrical & plumbing supplies",
+    "ato_category": "Administration Expenses",
+    "amount": 268200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Inventory \u2014 safety & workwear",
+    "ato_category": "Current Assets - Inventory",
+    "amount": 98400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Inventory \u2014 tools & machinery",
+    "ato_category": "Current Assets - Inventory",
+    "amount": 310900,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Prepaid expenses \u2014 insurance",
+    "ato_category": "Insurance",
+    "amount": 21400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Prepaid expenses \u2014 rent",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 34000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Prepaid expenses \u2014 other",
+    "ato_category": "Current Assets - Prepayments",
+    "amount": 9200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Income tax receivable 0",
+    "ato_category": "Revenue - Sales",
+    "amount": 12400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Accrued revenue",
+    "ato_category": "Revenue - Sales",
+    "amount": 48200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Freehold land \u2014 42 Logistics Drive, Wetherill Park (at cost)",
+    "ato_category": "Non-Current Assets - PP&E",
+    "amount": 1200000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Buildings \u2014 at cost",
+    "ato_category": "Non-Current Assets - PP&E",
+    "amount": 840000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Accumulated depreciation \u2014 buildings",
+    "ato_category": "Depreciation",
+    "amount": -102400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Leasehold improvements \u2014 at cost",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 204000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Accumulated depreciation \u2014 leasehold improvements",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": -101200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Plant & equipment \u2014 at cost",
+    "ato_category": "Non-Current Assets - Fixed Assets",
+    "amount": 712800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Accumulated depreciation \u2014 plant & equipment",
+    "ato_category": "Depreciation",
+    "amount": -408800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Delivery vehicles \u2014 at cost",
+    "ato_category": "Distribution Expenses",
+    "amount": 524800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Accumulated depreciation \u2014 vehicles",
+    "ato_category": "Depreciation",
+    "amount": -248200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Right-of-use assets \u2014 vehicle leases (AASB 16)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 284800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Right-of-use assets \u2014 warehouse equipment leases",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 128400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Computer equipment & software \u2014 at cost",
+    "ato_category": "Administration Expenses - IT",
+    "amount": 298400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Accumulated depreciation \u2014 IT assets",
+    "ato_category": "Depreciation",
+    "amount": -184200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Goodwill (at cost, less impairment)",
+    "ato_category": "Depreciation",
+    "amount": 480000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Customer list intangible \u2014 at cost",
+    "ato_category": "Non-Current Assets - Intangibles",
+    "amount": 120000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Accumulated amortisation \u2014 customer list",
+    "ato_category": "Depreciation",
+    "amount": -72000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Capitalised software development costs",
+    "ato_category": "Administration Expenses - IT",
+    "amount": 96000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Accumulated amortisation \u2014 software",
+    "ato_category": "Depreciation",
+    "amount": -43200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Equity investment \u2014 Ironbark Imports Pty Ltd (related party)",
+    "ato_category": "Non-Current Assets - Investments",
+    "amount": 250000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Long-term deposits & bonds",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 52000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Deferred tax asset",
+    "ato_category": "Current Liabilities - Tax Payable",
+    "amount": 34200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Accounts payable \u2014 trade creditors",
+    "ato_category": "Current Liabilities - Trade Payables",
+    "amount": 1082400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Accrued liabilities \u2014 wages & super",
+    "ato_category": "Employee Expenses - Wages",
+    "amount": 92400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Accrued liabilities \u2014 other",
+    "ato_category": "Current Liabilities - Accrued Expenses",
+    "amount": 48200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "GST payable",
+    "ato_category": "Current Liabilities - Trade Payables",
+    "amount": 58400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "PAYG withholding payable",
+    "ato_category": "Current Liabilities - Trade Payables",
+    "amount": 28400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Payroll tax payable (NSW)",
+    "ato_category": "Current Liabilities - Trade Payables",
+    "amount": 14200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Income tax payable",
+    "ato_category": "Current Liabilities - Income Tax Payable",
+    "amount": 112400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Superannuation payable",
+    "ato_category": "Current Liabilities - Superannuation Payable",
+    "amount": 32800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Unearned revenue \u2014 deposits received",
+    "ato_category": "Revenue - Sales",
+    "amount": 52400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Current portion of lease liabilities (AASB 16)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 118400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Current portion of term loan (NAB)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 80000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Overdraft facility (CBA \u2014 $500k limit) 0",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 84200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Customer credit notes outstanding",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": 18400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Warranty provision \u2014 current",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 9800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Workers compensation liability",
+    "ato_category": "Employee Expenses - Workers Comp",
+    "amount": 4800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Term loan \u2014 NAB (principal $1.2m, drawn $920k)",
+    "ato_category": "Non-Current Liabilities - Loans",
+    "amount": 840000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Finance lease liabilities \u2014 non-current (AASB 16)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 198400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Chattel mortgage \u2014 delivery fleet",
+    "ato_category": "Motor Vehicle Expenses",
+    "amount": 224800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Deferred tax liability",
+    "ato_category": "Current Liabilities - Income Tax Payable",
+    "amount": 48200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Warranty provision \u2014 non-current",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 14200,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Make-good provision \u2014 leased premises",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 26400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Loan from related party \u2014 Ironbark Holdings",
+    "ato_category": "Non-Current Liabilities - Loans",
+    "amount": 150000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Deferred rent incentive",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 12400,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Issued capital",
+    "ato_category": "Equity - Paid-Up Capital",
+    "amount": 1000000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Share premium reserve",
+    "ato_category": "Equity - Reserves",
+    "amount": 500000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Asset revaluation reserve \u2014 land & buildings",
+    "ato_category": "Non-Current Assets - PP&E",
+    "amount": 420000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Foreign currency translation reserve",
+    "ato_category": "Equity - Reserves",
+    "amount": -6800,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Retained earnings \u2014 opening balance",
+    "ato_category": "Equity - Retained Earnings",
+    "amount": 2125160,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Add: Net profit after tax (current year)",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 324953,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Dividends paid \u2014 interim (May 2024) 0",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": -168733,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Less: Dividends paid \u2014 final (paid prior year)",
+    "ato_category": "Administration Expenses - Unclassified",
+    "amount": -100000,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Retained earnings \u2014 closing balance",
+    "ato_category": "Equity - Retained Earnings",
+    "amount": 2281380,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  },
+  {
+    "account_name": "Net Working Capital Current Assets - Current Liabilities $",
+    "ato_category": "Occupancy Costs - Rent",
+    "amount": 1949580,
+    "source_document": "bs_ironbark_fy2024.pdf"
+  }
+]

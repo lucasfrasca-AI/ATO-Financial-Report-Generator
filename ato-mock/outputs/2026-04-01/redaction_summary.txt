@@ -1,0 +1,13 @@
+REDACTION SUMMARY — Session cb7c74ab — 2026-04-01 03:33:36 UTC
+================================================================================
+Files processed: 2
+Total entities detected: 3
+
+By type:
+  PERSON               2 instances -> tokens: PERSON_001 PERSON_002
+
+Financial figures preserved (NOT redacted): 6
+Reporting dates preserved (NOT redacted): 5
+
+Token map saved to: ./data/session.db
+Full map export: outputs/<date>/token_map.json

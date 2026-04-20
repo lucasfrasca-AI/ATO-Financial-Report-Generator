@@ -1,0 +1,48 @@
+[2026-04-01 02:47:54 UTC] [INFO] Node 1: folder_scanner — scanning input folder
+[2026-04-01 02:47:54 UTC] [INFO] Scanned 2 document(s): ['balance_sheet.pdf', 'pl_statement.pdf']
+[2026-04-01 02:47:54 UTC] [INFO] Node 2: pii_redactor — running Presidio redaction
+[2026-04-01 02:49:18 UTC] [INFO] Redaction complete. Token map at outputs\2026-04-01\token_map.json
+[2026-04-01 02:49:18 UTC] [INFO] Node 3: session_embedder — building RAG store
+[2026-04-01 02:49:35 UTC] [INFO] RAG store built: collection='session_b99116e4'
+[2026-04-01 02:49:35 UTC] [INFO] Node 4: report_builder — building financial statements
+[2026-04-01 02:49:35 UTC] [INFO] Report built. 0 source records. sources.json written.
+[2026-04-01 02:49:35 UTC] [INFO] Node 5: narrative_writer — generating AI narrative sections
+[2026-04-01 02:50:25 UTC] [INFO] Narrative sections generated: ['notes_to_financials', 'directors_declaration', 'executive_summary']
+[2026-04-01 02:50:25 UTC] [INFO] Node 6: publisher — quality gate + writing outputs
+[2026-04-01 02:50:34 UTC] [INFO] Output files written to outputs\2026-04-01
+[2026-04-01 03:21:57 UTC] [INFO] Node 1: folder_scanner — scanning input folder
+[2026-04-01 03:21:57 UTC] [INFO] Scanned 2 document(s): ['balance_sheet.pdf', 'pl_statement.pdf']
+[2026-04-01 03:21:57 UTC] [INFO] Node 2: pii_redactor — running Presidio redaction
+[2026-04-01 03:22:04 UTC] [INFO] Redaction complete. Token map at outputs\2026-04-01\token_map.json
+[2026-04-01 03:22:04 UTC] [INFO] Node 3: session_embedder — building RAG store
+[2026-04-01 03:22:05 UTC] [INFO] RAG store built: collection='session_97b90099'
+[2026-04-01 03:22:05 UTC] [INFO] Node 4: report_builder — building financial statements
+[2026-04-01 03:22:05 UTC] [INFO] Report built. 0 source records. sources.json written.
+[2026-04-01 03:22:05 UTC] [INFO] Node 5: narrative_writer — generating AI narrative sections
+[2026-04-01 03:22:45 UTC] [INFO] Narrative sections generated: ['notes_to_financials', 'directors_declaration', 'executive_summary']
+[2026-04-01 03:22:45 UTC] [INFO] Node 6: publisher — quality gate + writing outputs
+[2026-04-01 03:22:52 UTC] [INFO] Output files written to outputs\2026-04-01
+[2026-04-01 03:29:55 UTC] [INFO] Node 1: folder_scanner — scanning input folder
+[2026-04-01 03:29:55 UTC] [INFO] Scanned 2 document(s): ['balance_sheet.pdf', 'pl_statement.pdf']
+[2026-04-01 03:29:55 UTC] [INFO] Node 2: pii_redactor — running Presidio redaction
+[2026-04-01 03:30:04 UTC] [INFO] Redaction complete. 2 redacted input(s) in outputs\2026-04-01\redacted_inputs. Token map at outputs\2026-04-01\token_map.json
+[2026-04-01 03:30:04 UTC] [INFO] Node 3: session_embedder — building RAG store
+[2026-04-01 03:30:05 UTC] [INFO] RAG store built: collection='session_c60b95d4'
+[2026-04-01 03:30:05 UTC] [INFO] Node 4: report_builder — building financial statements
+[2026-04-01 03:30:05 UTC] [INFO] Report built. 0 source records. sources.json written.
+[2026-04-01 03:30:05 UTC] [INFO] Node 5: narrative_writer — generating AI narrative sections
+[2026-04-01 03:30:50 UTC] [INFO] Narrative sections generated: ['notes_to_financials', 'directors_declaration', 'executive_summary']
+[2026-04-01 03:30:50 UTC] [INFO] Node 6: publisher — quality gate + writing outputs
+[2026-04-01 03:31:01 UTC] [INFO] Output files written to outputs\2026-04-01
+[2026-04-01 03:33:33 UTC] [INFO] Node 1: folder_scanner — scanning input folder
+[2026-04-01 03:33:34 UTC] [INFO] Scanned 2 document(s): ['bs_ironbark_fy2024.pdf', 'pl_ironbark_fy2024.pdf']
+[2026-04-01 03:33:34 UTC] [INFO] Node 2: pii_redactor — running Presidio redaction
+[2026-04-01 03:34:16 UTC] [INFO] Redaction complete. 2 redacted input(s) in outputs\2026-04-01\redacted_inputs. Token map at outputs\2026-04-01\token_map.json
+[2026-04-01 03:34:16 UTC] [INFO] Node 3: session_embedder — building RAG store
+[2026-04-01 03:34:17 UTC] [INFO] RAG store built: collection='session_cb7c74ab'
+[2026-04-01 03:34:17 UTC] [INFO] Node 4: report_builder — building financial statements
+[2026-04-01 03:34:17 UTC] [INFO] Report built. 0 source records. sources.json written.
+[2026-04-01 03:34:17 UTC] [INFO] Node 5: narrative_writer — generating AI narrative sections
+[2026-04-01 03:35:03 UTC] [INFO] Narrative sections generated: ['notes_to_financials', 'directors_declaration', 'executive_summary']
+[2026-04-01 03:35:03 UTC] [INFO] Node 6: publisher — quality gate + writing outputs
+[2026-04-01 03:35:11 UTC] [INFO] Output files written to outputs\2026-04-01

@@ -1,0 +1,21 @@
+{
+  "exported_at": "2026-04-04T04:48:46.728009+00:00",
+  "tokens": [
+    {
+      "entity_type": "PERSON",
+      "token": "PERSON_001",
+      "original": "Cth",
+      "confidence": 0.85,
+      "source": "bs_ironbark_fy2024.pdf",
+      "created_at": "2026-04-01T03:33:35.848102+00:00"
+    },
+    {
+      "entity_type": "PERSON",
+      "token": "PERSON_002",
+      "original": "CY 2023\u201324",
+      "confidence": 0.85,
+      "source": "pl_ironbark_fy2024.pdf",
+      "created_at": "2026-04-01T03:33:36.272757+00:00"
+    }
+  ]
+}
